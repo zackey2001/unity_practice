@@ -9,6 +9,6 @@
 ///////////
 
 次のコードを順番に入力していけば良いです。
-git add -A
+git add
 git commit -m '適当なメッセージ'
 git push origin master
